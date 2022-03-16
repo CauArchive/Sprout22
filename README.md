@@ -22,10 +22,9 @@
 2. [백준](https://www.acmicpc.net/) 가입
 3. [Vscode](https://code.visualstudio.com/) 설치 및 C언어 컴파일 환경 설정
 4. C언어 기본 문법 설명
-5. [Solved.ac](https://solved.ac/search?query=in_class:1) 에서 4문제 풀이
-6. [1000](https://noj.am/1000), [1001](https://noj.am/1001), [1008](https://noj.am/1008), [2438](https://noj.am/2438) 문제 풀이
+5. [Solved.ac](https://solved.ac/search?query=in_class:1)
 
 ### 1주차 숙제
 
-1.Homework 디렉토리에 있는 1546.c에 정답 채워넣고 [백준](https://www.acmicpc.net/problem/1546)에 제출하기.(틀려도 괜찮습니다, 안되면 질문해주세요)
+1.Homework 디렉토리에 있는 1000.c에 정답 채워넣고 [백준](https://noj.am/1000)에 제출하기.(틀려도 괜찮습니다, 안되면 질문해주세요)
 2.[노션](https://www.notion.so)회원가입 후 오늘 한 내용 정리(옵션)
