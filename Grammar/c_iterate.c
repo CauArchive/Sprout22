@@ -1,3 +1,4 @@
+// Week 02
 #include <math.h>
 #include <stdio.h>
 
