@@ -2,9 +2,13 @@
 #include <stdio.h>
 
 int main(void) {
-  int n[5] = {1, 2, 3, 4, 5};
+  int n[100];
 
-  for (int i = 0; i < 5; i++) {
+  for (int i = 0; i < 100; i++) {
+    n[i] = i + 1;
+  }
+
+  for (int i = 0; i < 100; i = i + 1) {
     printf("%d ", n[i]);
   }
 
