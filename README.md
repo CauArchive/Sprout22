@@ -13,7 +13,7 @@
 
 ```code
 1. find ./ -type d -name "*.dSYM" -exec rm -rf {} \;
-2. find ./ACMICPC -type f ! -iname "*.*" -exec rm -rf {} \;
+2. find ./Grammar -type f ! -iname "*.*" -exec rm -rf {} \;
 ```
 
 ## 1주차 내용
@@ -35,12 +35,12 @@
 2. 배열과 반복문을 이용해서 반복을 줄이는 방법 설명
 3. [백준9468](https://www.acmicpc.net/problem/9498) 문제를 풀면서 if문 사용법 강의
 4. [백준14681](https://www.acmicpc.net/problem/14681) 문제를 풀면서 if문 사용법 익히기
-5. 새싹 튜터링 이름 정하기
-6. [제로페이지](https://zeropage.org/) 준회원 신청 및 [제로페이지 위키](https://wiki.zeropage.org/wiki.php) 가입
 
 ### 2주차 숙제
 
-1. Homework 디렉토리에 있는 9468.c에 정답을 채워넣고 [백준9468](https://www.acmicpc.net/problem/9498)에 제출하기(틀려도 괜찮습니다)
+1. Homework 디렉토리에 있는 9498.c에 정답을 채워넣고 [백준9498](https://www.acmicpc.net/problem/9498)에 제출하기(틀려도 괜찮습니다)
+2. 새싹 튜터링 하나씩 정해오고
+3. [제로페이지](https://zeropage.org/) 준회원 신청 및 [제로페이지 위키](https://wiki.zeropage.org/wiki.php) 가입
 
 ### 3주차 내용
 
