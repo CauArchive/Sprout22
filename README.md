@@ -32,7 +32,7 @@
 ## 2주차 [내용](https://docs.google.com/presentation/d/1WTlx9q-R0oq3Dqju_OTGXsknsHuwPRuldEm9o-cPRXQ/edit?usp=sharing)
 
 1. 1주차 과제 해설
-2. 배열과 반복문을 이용해서 반복을 줄이는 방법 설명
+2. 배열과 반복문을 이용해서 반복된 코드를 줄이는 방법 설명
 3. [백준9468](https://www.acmicpc.net/problem/9498) 문제를 풀면서 if문 사용법 강의
 4. [백준14681](https://www.acmicpc.net/problem/14681) 문제를 풀면서 if문 사용법 익히기
 
@@ -45,4 +45,9 @@
 ### 3주차 내용
 
 1. 2주차 과제 해설
-2. 배열과 반복문 이용법에 대한 부가적 설명
+2. 2주차 복습
+3. 별찍기를 통한 반복문 이해하기
+
+### 3주차 숙제
+
+1. 3주차 c_star_5.c의 소스를 보고 [백준2443](https://www.acmicpc.net/problem/2443) 문제 풀어오기
