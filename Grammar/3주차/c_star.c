@@ -1,4 +1,4 @@
-// Week 02
+// Week 03
 #include <stdio.h>
 
 // 콘솔창에 별 찍어보기

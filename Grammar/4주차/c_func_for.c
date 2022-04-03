@@ -1,5 +1,13 @@
-// Week 03
+// Week 04
 #include <stdio.h>
+
+void initialize_array(int* arr) {
+  // do something
+}
+
+void print_array(int* arr) {
+  // do something
+}
 
 int main(void) {
   int n[100];

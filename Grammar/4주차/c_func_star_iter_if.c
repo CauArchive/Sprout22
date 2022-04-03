@@ -1,9 +1,13 @@
-// Week 03
+// Week 04
 #include <stdio.h>
 
 // #설명
 // 만약 배열에 담긴 숫자가 양수일때만
 // 별을 찍고 싶다면 어떻게 해야할까?
+
+void solve(int n, int* arr) {
+  // do something
+}
 
 int main(void) {
   int n[5] = {3, 1, 0, 2, 4};

@@ -1,8 +1,13 @@
-// Week 03
+// Week 04
 #include <stdio.h>
 
+// Print on Console
 // #설명
 // https://www.acmicpc.net/problem/2442
+
+void solve(int n) {
+  // do something
+}
 
 int main(void) {
   int n;

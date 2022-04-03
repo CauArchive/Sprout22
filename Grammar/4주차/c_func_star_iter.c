@@ -1,17 +1,16 @@
-// Week 03
+// Week 04
 #include <stdio.h>
 
-// 반복문을 이용해서
-// 콘솔창에 별 찍어보기
+// Print on Console
 // *
 // **
 // ***
 // ****
 // https://www.acmicpc.net/problem/2438
-// scanf까지
 
-// Hint: for(반복문 시작조건; 종료조건; 한 번의 반복 이후
-// 다음 반복문이 실행되기 전 실행하고 싶은 코드)
+void solve(int n) {
+  // do something
+}
 
 int main() {
   int n = 0;

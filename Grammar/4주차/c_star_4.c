@@ -1,12 +1,16 @@
-// Week 03
+// Week 04
 #include <stdio.h>
 
-// 콘솔창에 별 찍어보기
+// Print on Console
 // ****
 //  ***
 //   **
 //    *
 // https://www.acmicpc.net/problem/2441
+
+void solve(int n) {
+  // do something
+}
 
 int main() {
   int n = 0;

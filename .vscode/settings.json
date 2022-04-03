@@ -111,6 +111,7 @@
     "ranges": "cpp",
     "stop_token": "cpp",
     "syncstream": "cpp",
-    "filesystem": "cpp"
+    "filesystem": "cpp",
+    "stdio.h": "c"
   }
 }
