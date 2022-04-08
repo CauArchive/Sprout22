@@ -113,5 +113,8 @@
     "syncstream": "cpp",
     "filesystem": "cpp",
     "stdio.h": "c"
+  },
+  "[python]":{
+   "editor.defaultFormatter": "ms-python.python"
   }
 }

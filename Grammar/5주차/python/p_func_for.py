@@ -4,9 +4,11 @@ def initialize_array(n):
         array.append(i)
     return array
 
+
 def print_array(array):
     for i in array:
         print(i, end=' ')
+
 
 n = []
 m = []
