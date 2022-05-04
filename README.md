@@ -80,9 +80,10 @@
 
 1. 교수님들 시험문제 리뷰
 2. 1~5주차 리뷰
-3. 문자열(아스키코드) 수업(자료형의 크기관련)
-4. [백준2178](https://www.acmicpc.net/problem/2178) 입력받는법
-5. 가능하면 수 [정렬](https://www.acmicpc.net/problem/2750)하기까지
+3. 스위치문
+4. 문자열(아스키코드) 수업(자료형의 크기관련)
+5. [백준2178](https://www.acmicpc.net/problem/2178) 입력받는법
+6. 가능하면 수 [정렬](https://www.acmicpc.net/problem/2750)하기까지
 
 ### 6주차 숙제
 
