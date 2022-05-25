@@ -8,19 +8,20 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.blog.naver.com%2FPostView.na
 */
 
 int main(void) {
-  char a = 'A';
+  char a = '1';
+  // a = 49
 
   printf("%c\n", a);
-  // 예상되는 결과: (직접 적기)
+  // 예상되는 결과: 1
   printf("%d\n", a);
-  // 예상되는 결과: (직접 적기)
+  // 예상되는 결과: 49
 
-  int itoc = 65;
+  int itoc = 49;
 
   printf("%d\n", itoc);
-  // 예상되는 결과: (직접 적기)
+  // 예상되는 결과: 65
   printf("%c\n", itoc);
-  // 예상되는 결과: (직접 적기)
+  // 예상되는 결과: A
 
   return 0;
 }

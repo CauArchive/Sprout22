@@ -116,5 +116,5 @@
   },
   "[python]":{
    "editor.defaultFormatter": "ms-python.python"
-  }
+  },
 }

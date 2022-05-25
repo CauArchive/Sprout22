@@ -6,7 +6,6 @@
             "label": "C bulid for clang",
             "command": "clang",
             "args": [
-                "-g",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
@@ -30,7 +29,6 @@
             "args": [
                 "-std=c++17",
                 "-stdlib=libc++",
-                "-g",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
