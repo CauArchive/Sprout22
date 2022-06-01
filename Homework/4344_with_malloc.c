@@ -1,5 +1,6 @@
 #include <math.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * @brief how to solve algorithm prob
@@ -14,10 +15,13 @@ int main(void) {
   // variable for storing current iteration
   int num_of_input;
 
-  int input_buffer[1001];
   for (int i = 0; i < num_of_result; i++) {
     int sum = 0;
     scanf("%d", &num_of_input);
+
+    int* input_buffer = (int*)malloc(sizeof(int) * num_of_input);
+    // is it possible?
+    // int input_buffer[num_of_input];
 
     // sum all inputs;
     for (int j = 0; j < num_of_input; j++) {
@@ -36,6 +40,9 @@ int main(void) {
 
     // print result;
     printf("%.3f%%\n", ((float)over_avg_counter / num_of_input) * 100);
+
+    // prevent memory leak
+    free(input_buffer);
   }
 
   return 0;

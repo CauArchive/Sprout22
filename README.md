@@ -98,3 +98,17 @@
 
 1. [백준4344](https://www.acmicpc.net/problem/4344) 문제풀이
 2. 숙제필기장 폴더에 4344.c 파일 안에서 풀어주세요
+
+### 10주차 내용
+
+1. void 포인터와 struct 포인터
+2. 메모리 Allocation
+3. Enum을 통한 읽기 쉬운 코딩(chatting 예제)
+4. factorial 함수 구현하기
+5. 자리수 계산하기
+6. 4333번 풀이방법 설명
+
+### 10주차 숙제
+
+1. [백준4673](https://www.acmicpc.net/problem/4673) 문제풀이
+2. 숙제필기장 폴더에 4673.c 파일을 만들고 풀어주세요
