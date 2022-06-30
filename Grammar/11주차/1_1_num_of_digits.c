@@ -7,6 +7,7 @@
  * @return int
  */
 
+// 121
 int count_digits(int n) {
   int count = 0;
   int i;
@@ -18,6 +19,7 @@ int count_digits(int n) {
   return count;
 }
 
+// 111
 int sum_digits_for(int n) {
   int sum = 0;
 
@@ -42,6 +44,7 @@ int main(void) {
   int n;
   scanf("%d", &n);
 
+  printf("%d\n", count_digits(n));
   printf("%d\n", sum_digits_for(n));
   printf("%d\n", sum_digits_while(n));
 

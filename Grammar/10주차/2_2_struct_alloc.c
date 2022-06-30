@@ -24,6 +24,7 @@ int main() {
   scanf("%d", &num_of_student);
 
   Person* students = (Person*)malloc(sizeof(Person) * num_of_student);
+  // Person students[100];
 
   for (int i = 0; i < num_of_student; i++) {
     students[i].id = i + 1;

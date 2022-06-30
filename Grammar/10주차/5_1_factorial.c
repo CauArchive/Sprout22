@@ -14,8 +14,10 @@ int factorial(int n) {
 // iterate to recursive
 int recur_fac(int n) {
   // terminate condition
-  if () {
+  if (n == 1) {
+    return 1;
   } else {
+    return n * recur_fac(n - 1);
   }
 }
 
@@ -24,6 +26,7 @@ int main(void) {
   scanf("%d", &n);
 
   printf("%d\n", factorial(n));
+  printf("%d\n", recur_fac(n));
 
   return 0;
 }
